@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background: rgba(230, 230, 230, 0.788);
+}
+.heading{
+    text-align: center;
+}
+.center-img{ 
+    text-align: center;
+    background: #ffffff;;
+    padding: 30px;
+    
+}
+.center-img img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.discription-section{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.discription-section h2{
+    text-align: center;
+    padding: 10px;
+}
+span{
+    font-weight: bold;
+}
+.discription-section li p{
+    font-weight: lighter;
+}
+.qoutes-section p{
+    color: grey;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 20px 0px;
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 50%;
+}
+.more-about-norman{
+    text-align: center;
+}
